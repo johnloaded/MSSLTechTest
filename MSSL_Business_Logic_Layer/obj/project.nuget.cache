@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s93Td16dLQtxcZFqiKUw1IXoieVLpvdGpCASKbV3bQREi+HmH1mHWnQFZA6FdnLPuLqQnYAed85y3BfLGz1T4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaffa\\source\\repos\\ConsoleAppMSSL\\MSSL_Business_Logic_Layer\\MSSL_Business_Logic_Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaffa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

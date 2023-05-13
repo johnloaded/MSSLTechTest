@@ -1,0 +1,12 @@
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\bin\Debug\net6.0\MSSL_Business_Logic_Layer.deps.json
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\bin\Debug\net6.0\MSSL_Business_Logic_Layer.dll
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\bin\Debug\net6.0\MSSL_Business_Logic_Layer.pdb
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\MSSL_Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\MSSL_Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\MSSL_Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\MSSL_Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\MSSL_Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\MSSL_Business_Logic_Layer.dll
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\refint\MSSL_Business_Logic_Layer.dll
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\MSSL_Business_Logic_Layer.pdb
+C:\Users\jaffa\source\repos\ConsoleAppMSSL\MSSL_Business_Logic_Layer\obj\Debug\net6.0\ref\MSSL_Business_Logic_Layer.dll
